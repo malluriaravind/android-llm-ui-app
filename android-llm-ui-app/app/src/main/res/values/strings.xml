@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CMPE277_ChatGPT</string>
+    <string name="android_chatgpt_app">Android ChatGPT App</string>
+    <string name="prompt">Prompt:</string>
+</resources>

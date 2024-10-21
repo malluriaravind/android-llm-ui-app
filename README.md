@@ -4,7 +4,7 @@
 This Android application allows users to send prompts to ChatGPT and receive AI-generated responses. The UI is designed with simplicity and ease of use in mind. Below are the screens and a brief explanation of each component.
 
 ### 1. Logo Screen
-![Logo Image](logo.png)
+![Logo Image](CMPE277-ChatGPT-main/logo.png)
 
 This is the initial screen displayed when the app is launched. The screen features the application logo and serves as a loading or splash screen while the app initializes. 
 
@@ -13,7 +13,7 @@ This is the initial screen displayed when the app is launched. The screen featur
 - Gives the app some time to load the necessary resources.
 
 ### 2. Query Input Screen
-![Query Input Image](query.png)
+![Query Input Image](CMPE277-ChatGPT-main/query.png)
 
 In this screen, the user is presented with a text input field labeled "Prompt" where they can enter their query or request for information. The screen has two buttons:
 - **Send**: To submit the query.
@@ -24,7 +24,7 @@ In this screen, the user is presented with a text input field labeled "Prompt" w
 - The app's AI backend processes the request and returns a response.
 
 ### 3. Response Screen
-![Response Image](response.png)
+![Response Image](CMPE277-ChatGPT-main/response.png)
 
 
 
